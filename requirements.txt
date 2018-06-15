@@ -13,5 +13,5 @@ pytz==2018.4
 pyyaml==3.12
 rainbow-logging-handler==2.2.2
 redis==2.10.3
-selinon==1.0.0rc4
+selinon==1.0.0rc2
 vine==1.1.4
