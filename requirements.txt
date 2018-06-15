@@ -1,4 +1,6 @@
 -i https://pypi.org/simple
+--extra-index-url https://pypi.org/simple
+--extra-index-url https://pypi.org/simple
 amqp==2.3.2
 billiard==3.5.0.3
 celery==4.0.0
@@ -13,5 +15,5 @@ pytz==2018.4
 pyyaml==3.12
 rainbow-logging-handler==2.2.2
 redis==2.10.3
-selinon==1.0.0rc2
+selinon==1.0.0rc4
 vine==1.1.4
