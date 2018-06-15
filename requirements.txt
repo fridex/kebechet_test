@@ -12,6 +12,6 @@ logutils==0.3.5
 pytz==2018.4
 pyyaml==3.12
 rainbow-logging-handler==2.2.2
-redis==2.10.3
+redis==2.10.6
 selinon==1.0.0rc4
 vine==1.1.4
