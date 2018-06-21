@@ -1,12 +1,10 @@
 -i https://pypi.org/simple
 amqp==2.3.2
-argcomplete==1.9.4
 billiard==3.5.0.3
 celery==4.0.0
 click==6.0
 codegen==1.0
 colorama==0.3.9
-flexmock==0.10.2
 graphviz==0.8.3
 jsonschema==2.6.0
 kombu==4.2.1
@@ -14,6 +12,6 @@ logutils==0.3.5
 pytz==2018.4
 pyyaml==3.12
 rainbow-logging-handler==2.2.2
-redis==2.10.6
-selinon==1.0.0rc2
+redis==2.10.3
+selinon==1.0.0rc4
 vine==1.1.4
